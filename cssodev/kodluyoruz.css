@@ -1,0 +1,109 @@
+
+.body{
+    background-color: darkslategrey;
+}
+
+h1{
+    color: red; 
+    font-size: 32px;
+    font-family: monospace;
+    text-align: center;
+    border-style: ridge;
+    border-color: brown;
+    background-color: cadetblue;
+}
+h2{
+    color:salmon;
+    font-size: 38px;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+
+p{
+    color:blue;
+    font-family: cursive;
+    text-align: center;
+}
+.p1{
+
+    color:darkorange;
+    font-size: 58px;
+    text-align: left;
+    margin-top: 10%;
+    font-family: fantasy;
+}
+
+.img{
+    border-style: solid;
+    float: right;
+    margin-top: 5%;
+   
+}
+.img2{
+    margin-left:8%; 
+    margin-right: 8%; 
+    margin-top: 11%; 
+    float:right; 
+    padding:0 10px 10px 0;
+}
+.button{
+    font-family:courier; 
+    padding: 15px 32px; 
+    margin-left: 10%; 
+    width: 12; 
+    background-color:cadetblue;  
+    cursor: pointer; 
+    border-radius: 15px; 
+}
+#margin1{
+margin-left: 22%;
+}
+#margin2{
+    margin-left: 25%;
+}
+#ul{
+    list-style-type: square; 
+}
+
+#p2{
+    color: darkred; 
+    font-family: Gill Sans; 
+    font-size: large; 
+    border-style: dotted; 
+    text-align: center;
+    background-color: burlywood;
+}
+.li1{
+    font-size: large; 
+    margin-top: 8px;
+    background-color: cornflowerblue;
+    padding-top: 7px;
+    text-align: center;
+    border-style: double; 
+    font-family: fantasy; 
+    color: rgb(5, 71, 80);
+}
+.li2{
+    background-color: darkkhaki; 
+    text-align: center; 
+    font-family:cursive;
+    color: maroon;
+}
+
+#p3{
+    color:limegreen; 
+    background-color: black; 
+    border-style: groove;
+    cursor: pointer; 
+    text-align: center; 
+    font-size: larger; 
+    font-family: serif;
+}    
+    #p4{
+        color: chocolate;
+        text-align: center; 
+        font-size: 20px; 
+        font-family: cursive;
+    }
+
