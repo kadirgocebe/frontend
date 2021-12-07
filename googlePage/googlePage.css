@@ -1,0 +1,83 @@
+
+
+.img{
+    margin-left: 500px;
+    margin-right: 650px;
+}
+
+.grikutu {
+    background-color: rgb(238, 238, 238);
+    height: 85px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 4%;
+}
+
+
+.label1 {
+    margin-left: 420px;
+    margin-right: 450px;
+}
+.label2 {
+    margin-left: -82%;
+    margin-right: 20px;
+}
+div {
+    margin-left: 500px;
+    margin-right: 650px;
+}
+
+.input {
+    width: 39%;
+   margin-left: 25%;
+      }
+
+.buton {
+    height: 20px;
+    width: 18%;
+    margin-left: 26%;
+    
+    }
+    .buton2 {
+        height: 20px;
+        width: 20%;
+      margin-right: 36%;
+        float: right;
+        
+        }
+
+.yesilkutu1 {
+    background-color: #7EE5DA;
+    height: 105px;
+    margin-left:7%;
+    margin-right: 7%;
+ 
+}.yesilkutu2 {
+    background-color: #70CCC2;
+    height: 105px;
+    margin-left:33%;
+    margin-right: 17%;
+    margin-top: -6.85%;
+ 
+}
+.yesilkutu3 {
+    background-color: #62B3AA;
+    height: 105px;
+    margin-left:70%;
+    margin-right: -34%;
+    margin-top: -16%;
+    
+}
+
+.table1{
+    margin-right: 65%;
+    margin-left: 12%;
+}
+.table2{
+    margin-right: 25%;
+    margin-left: 22%;
+}
+.table3{
+    margin-right: 25%;
+    margin-left: 22%;
+}
