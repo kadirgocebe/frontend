@@ -1,0 +1,51 @@
+.img{
+    margin-top: 5%;
+    margin-left: 480px;
+    margin-right: 650px;
+}
+.input {
+    height: 35px;
+    width: 550px;
+   margin-left: 25%;
+   border-radius: 25px;
+   border-style:ridge;
+   border-color: aliceblue;
+   box-shadow: grey;
+      }
+
+.buton {
+        height: 20px;
+        width: 17%;
+        margin-left: 26%;
+        border-radius: 5px;
+        background-color: white;
+        color: black;
+        border: 2px solid #e7e7e7;
+
+        
+        }
+
+.buton2 {
+            height: 20px;
+            width: 18%;
+            margin-right: 36%;
+            float: right;
+            border-radius: 5px;
+            background-color: white;
+            color: black;
+            border: 2px solid #e7e7e7;
+            
+        }
+           
+              
+.buton:hover {background-color: whitesmoke;}
+.buton2:hover {background-color: whitesmoke;}
+
+.label1 {
+    margin-left: 80%;
+    margin-right: 20px;
+}
+.label2 {
+    margin-left: 35%;
+    margin-right: 20px;
+}
